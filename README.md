@@ -385,6 +385,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[React Router](https://github.com/ReactTraining/react-router)
 - 🌐[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - 🌐[Storybook](https://storybook.js.org/)
+- 🌐[React Live](https://commerce.nearform.com/open-source/react-live/)
 
 ### State Management
 
@@ -404,6 +405,7 @@ Be sure to read [How To Contribute](CONTRIBUTING.MD)
 - 🌐[Rebass](https://rebassjs.org/)
 - 🌐[Semantic UI React](https://react.semantic-ui.com/)
 - 🌐[Chakra UI](https://chakra-ui.com/)
+- 🌐[Headless UI](https://headlessui.com/)
 
 ### Unit Testing
 
